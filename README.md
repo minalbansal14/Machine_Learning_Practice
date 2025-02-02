@@ -26,3 +26,7 @@ This repository covers **All Essential ML models**, including their implementati
 │── 📁 evaluation_metrics/       # Performance evaluation metrics
 │── requirements.txt             # Python dependencies
 │── README.md                    # Project documentation
+
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify it.
