@@ -1,7 +1,7 @@
 # 📊 Machine Learning Models Repository
 
 Welcome to the **Machine Learning Models Repository**!  
-This repository covers **all essential ML models**, including their implementation, performance evaluation, hyperparameter tuning, and feature engineering techniques.
+This repository covers **All Essential ML models**, including their implementation, performance evaluation, hyperparameter tuning, and feature engineering techniques.
 
 ## 📂 Repository Structure
 
